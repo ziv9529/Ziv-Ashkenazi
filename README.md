@@ -13,9 +13,10 @@
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
 I'm 21 years old, from the center of Israel.<br>
-I had a first degree in Full-stack development at John Bryce Academy and am currently open to work!<br>
+I have a certification in Full Stack and Web Application Development at John Bryce Academy and i'm currently open to work!<br>
 My knowledge is in: Javascript, React, NodeJS, MongoDB, MySQL, and Docker.<br>
-Open for new challenges, with high motivation and passion for new technologies, science, and innovations.<br>
+I'm a self learner and everyday i like to learn somthing new<br>
+I'm looking for a new challenges, with high motivation and passion for new technologies, science, and innovations.<br>
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "15%"> </h2>
 
