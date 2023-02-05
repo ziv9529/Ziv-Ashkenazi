@@ -12,7 +12,7 @@
 
 <img width="25%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   
-I'm 21 years old, from the center of Israel.<br>
+I'm 22 years old, from the center of Israel.<br>
 I have a certification in Full Stack and Web Application Development at John Bryce Academy and i'm currently open to work!<br>
 My knowledge is in: Javascript, React, NodeJS, MongoDB, MySQL, and Docker.<br>
 I'm a self learner and everyday i like to learn somthing new<br>
